@@ -8,7 +8,7 @@ Created on Fri Aug 10 17:08:30 2018
 
 import pandas as pd
 
-df = pd.read_csv('C:\\Users\\vamshi krishna\\Desktop\\athlete_events\\athlete_events_edited.csv')
+df = pd.read_csv('athlete_events_edited.csv')
 
 
 
